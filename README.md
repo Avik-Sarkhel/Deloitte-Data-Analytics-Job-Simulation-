@@ -83,7 +83,7 @@ Assess employee compensation fairness using equality scores.
 | **Less than -20 OR greater than 20** | Highly Discriminative |
 
 #### 🧮 Excel Formula Used
-```excel
+excel
 =IF(ABS(C2)<=10, "Fair", IF(ABS(C2)<=20, "Unfair", "Highly Discriminative"))
 
 ✅ ABS() ensures classification is based on the absolute distance from perfect equality (0). This helps simplify logic — for example: both -9 and +9 are considered equally fair.
@@ -105,3 +105,28 @@ The formula classifies a score as Fair if it falls within -10 to +10 (inclusive)
 Structured table format
 
 Professional borders, headers, and filtered columns
+
+#### 📸 Visual Outputs
+### 📸 Visual Outputs
+
+##### 🖼️ Original Excel File (As Provided)
+![Original Excel File](./TASK%202%20EXCEL.png)
+
+##### 🖼️ My Classified & Styled Excel Output
+![My Solution](./TASK%202%20MY%20SOLUTION.png)
+
+##### 🖼️ Deloitte’s Provided Solution (Reference)
+![Deloitte Solution](./TASK%202%20GIVEN%20SOLUTION.png)
+
+#### 📁 Task 2 Deliverables
+📄 Job Simulation Task 2.xlsx — Final processed Excel file
+
+📄 Task 5 Equality Table (1).xlsx — Raw or intermediate file
+
+🖼️ TASK 2 EXCEL.png — Screenshot of the original Excel structure
+
+🖼️ TASK 2 MY SOLUTION.png — My classified and styled version
+
+🖼️ TASK 2 GIVEN SOLUTION.png — Deloitte's sample solution
+
+📄 Task 5 Model Answer.xlsx — (If provided)
