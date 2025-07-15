@@ -85,3 +85,23 @@ Assess employee compensation fairness using equality scores.
 #### 🧮 Excel Formula Used
 ```excel
 =IF(ABS(C2)<=10, "Fair", IF(ABS(C2)<=20, "Unfair", "Highly Discriminative"))
+
+✅ ABS() ensures classification is based on the absolute distance from perfect equality (0). This helps simplify logic — for example: both -9 and +9 are considered equally fair.
+
+#### 🧠 Note on "Fair" Classification:
+The formula classifies a score as Fair if it falls within -10 to +10 (inclusive). This captures minor deviations from equality and considers them acceptable in most organizational contexts.
+
+#### 🎨 Visual Enhancements
+✅ Conditional Formatting applied to the Equality class column:
+
+🔴 Red → Highly Discriminative
+
+🟡 Yellow → Unfair
+
+🟢 Green → Fair
+
+#### ✅ Excel table was styled to match Deloitte’s brand theme:
+
+Structured table format
+
+Professional borders, headers, and filtered columns
