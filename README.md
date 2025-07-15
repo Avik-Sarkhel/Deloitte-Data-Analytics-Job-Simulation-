@@ -130,3 +130,12 @@ Professional borders, headers, and filtered columns
 🖼️ TASK 2 GIVEN SOLUTION.png — Deloitte's sample solution
 
 📄 Task 5 Model Answer.xlsx — (Deloitte provided excel solution file)
+
+## 👨‍💻 Author
+
+**Avik Sarkhel**  
+🎓 MCA Student | Aspiring Data Analyst | Power BI Enthusiast  
+📫 [avik305sarkhel@gmail.com](mailto:avik305sarkhel@gmail.com)  
+🔗 [LinkedIn: avik-sarkhel](https://www.linkedin.com/in/avik-sarkhel/) 
+
+> ⭐ If this helped you, give it a star — and let's connect on [LinkedIn](https://www.linkedin.com/in/avik-sarkhel/)!
