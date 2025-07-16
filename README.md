@@ -51,10 +51,10 @@ Analyze telemetry data from **Daikibo's 4 factories** to answer:
 
 #### 📸 Visual Outputs
 
-##### 🖼️ Dashboard Screenshot
+##### 🖼️ Provided Dashboard Screenshot
 ![Task 1 Dashboard](./Task%201%20Given%20Solution.png)
 
-##### 🎞️ Dashboard Recording
+##### 🎞️ My Dashboard Recording
 ![Dashboard Recording](./Dashboard%20Recording%20(1).gif)
 
 #### 📁 Task 1 Files
